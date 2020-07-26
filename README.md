@@ -21,8 +21,6 @@ In this ML problem, we will building a classification model as we have to predic
 
 ## Result
 
-Macro Economic Indicators did not help in prediction of weekly sales. The sales data is very similar over different years 
-and this consistency helped to predict the sales. 
-
+Through Area under the ROC curve, we can say that Gradient Boosting model performed the best 
 
 
