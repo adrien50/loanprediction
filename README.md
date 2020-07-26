@@ -5,14 +5,14 @@ SYL bank is one of Australia's largest banks. Currently, the loan applications w
 
 In this ML problem, we will building a classification model as we have to predict if an applicant should get a loan or not. We will look at various factors of the applicant like credit score, past history and from those we will try to predict the loan granting status. We will also cleanse the data and fill in the missing values so that our ML model performs as expected. Thus we will be giving out a probability score along with Loan Granted or Loan Refused output from the model.
 
-##Project flow
+## Project flow
 * In depth exploratory data analysis of each feature & Feature engineering
 * Imputing missing data with soft impute
 * Binarizing the Target variable with LabelBinarizer() function
 * Scaling the independent variables
 * Training and testing the model using Cross Validation
 * Creating custom functions for Machine Learning Models
-* Function to find which features are more important than others through model
+*  Create function to find which features are more important than others through model
 * Create model to  predict the ROC curve for various models and finding the best one
 * Finding accuracy and feature importance using XGB classifier
 * Building statistical models like Gradient Boosting, XGBoost, etc
