@@ -19,4 +19,10 @@ In this ML problem, we will building a classification model as we have to predic
 * Using SMOTE for Data Balancing
 * Creating pickle files for model reusability
 
+## Result
+
+Macro Economic Indicators did not help in prediction of weekly sales. The sales data is very similar over different years 
+and this consistency helped to predict the sales. 
+
+
 
